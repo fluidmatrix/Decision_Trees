@@ -67,5 +67,4 @@ for i, feature_name in enumerate(['Ear Shape', 'Face Shape', 'Whiskers']):
 """
 Currently, the recursive block still needs to be developed
 This is just the functions for the workings of the build_recursive_tree
-checking something
 """
