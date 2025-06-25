@@ -1,0 +1,1 @@
+This repository contains the Learnings from the first Jupyter notebook in the second course of Advanced Learning Algorithms, taught by Instructor Andrew Ng, in collaboration with deeplearning.AI and Stanford Online. This repository lists the functions taught in the first optional lab of the task.
